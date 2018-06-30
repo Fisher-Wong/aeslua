@@ -1,16 +1,12 @@
 ## AES for Lua
 -----------
-This files contain an implementation of AES in lua.
+1. This files contain an implementation of AES in lua.
 
-The only additional library needed is bitlib.
+2. The only additional library needed is bitlib.
 
-It can be used to communicat with other platforms or languages.
+3. It can be used to communicat with other platforms or languages.**(such as c, php, lua, java, golang, c#, python)**
 
-**(such as c, php, lua, java, golang, c#, python)**
-
-It can be also used on embedded linux system.
-
-**(such as openwrt)**
+4. It can be also used on embedded linux system.**(such as openwrt)**
 
 -----------
 ### Thanks to bighil !
