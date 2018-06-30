@@ -1,4 +1,4 @@
-# AES for lua
+# AES for Lua
 -----------
 This files contain an implementation of AES in lua. The only additional library needed is bitlib.
 It can be used to communicat with other platforms or languages.
@@ -6,7 +6,7 @@ It can be used to communicat with other platforms or languages.
 **(such as c,php,lua,java,golang,c#,python)**
 
 -----------
-Thanks to bighil !
+### Thanks to bighil !
 This library is baseed on his project.[bighil/aeslua](https://github.com/bighil/aeslua/blob/master/src/aeslua.lua)
 I fork this project because the origin project created by bighil seems to be no longer updated.
 
