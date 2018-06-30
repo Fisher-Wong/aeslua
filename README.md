@@ -11,11 +11,10 @@
 
 ### Thanks to bighil !
 -----------
-This library is baseed on his project.
-
+1. This library is baseed on his project.
 [bighil/aeslua](https://github.com/bighil/aeslua/blob/master/src/aeslua.lua)
 
-I fork this project because the origin project created by bighil seems to be no longer updated.
+2. I fork this project because the origin project created by bighil seems to be no longer updated.
 
 
 
