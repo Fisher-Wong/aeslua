@@ -22,14 +22,14 @@
 
 ```lua
 require("aeslua");
+
 cipher = aeslua.encrypt("password", "secret");
+
 plain = aeslua.decrypt("password", cipher);
 ```
 
 - For further examples,look into the file src/testcryptotest.lua.
-
--  To use AES directly, have a look at aes.lua and at the example usage in 
-testaes.lua.
+- To use AES directly, have a look at aes.lua and at the example usage in testaes.lua.
 
 ### Installation
 
