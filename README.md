@@ -2,7 +2,6 @@
 -----------
 This files contain an implementation of AES in lua.
 The only additional library needed is bitlib.
-
 It can be used to communicat with other platforms or languages.
 **(such as c,php,lua,java,golang,c#,python)**
 
