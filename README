@@ -37,7 +37,7 @@ Edit the LIBDIR variable in the Makefile and run
 
 make install
 
-Speed
+> Speed
 -----
 
 > The implementation is rather optimized (it uses tables for most AES operations) 
