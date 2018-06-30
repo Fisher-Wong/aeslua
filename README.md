@@ -36,7 +36,7 @@ testaes.lua.
 Edit the LIBDIR variable in the Makefile and run
 ```bash
 make install
-``
+```
 
 ### Speed
 
