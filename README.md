@@ -18,7 +18,7 @@
 
 
 
-### Usage
+## Usage
 
 ```lua
 require("aeslua");
@@ -31,14 +31,14 @@ plain = aeslua.decrypt("password", cipher);
 - For further examples,look into the file src/testcryptotest.lua.
 - To use AES directly, have a look at aes.lua and at the example usage in testaes.lua.
 
-### Installation
+## Installation
 
 Edit the LIBDIR variable in the Makefile and run
 ```bash
 make install
 ```
 
-### Speed
+## Speed
 
 > The implementation is rather optimized (it uses tables for most AES operations) 
 but still cannot compete with AES written in other languages. Typical AES 
